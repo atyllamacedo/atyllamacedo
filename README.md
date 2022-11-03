@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Visual Studio, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, Visual Studio, Git and GitHub/TortoiseGit.</strong>
 </p>
 
 <p align="left">
